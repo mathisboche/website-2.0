@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --c1: #ff5cac;   /* magenta-rose */
+  --c2: #7c3aed;   /* violet profond */
+  --c3: #14b8a6;   /* turquoise */
+}
+
+html, body {
+  @apply h-full w-full m-0 p-0 overflow-x-hidden bg-black text-gray-200 font-sans;
+}
+
+body {
+  background: radial-gradient(circle at 50% 50%, #0f0f0f 0%, #000000 90%);
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  @apply transition-transform duration-300 hover:scale-105;
+}
