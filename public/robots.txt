@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.mathisboche.fr
+
+# Sitemaps
+Sitemap: https://www.mathisboche.fr/sitemap.xml

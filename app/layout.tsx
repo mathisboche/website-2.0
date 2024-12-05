@@ -13,10 +13,14 @@ const geistMono = localFont({
   weight: "100 900",
 });
 
-export const metadata: Metadata = {
-  title: "Mathis Boche | Ingénierie Digitale & Stratégie",
-  description: "Approches innovantes, maîtrise technologique, vision stratégique.",
+export const metadata = {
+  title: 'Mathis Boche – Développeur créatif',
+  description:
+    'Développeur web passionné par le code, les échecs, et le design. Découvrez mes projets et mes compétences.',
+  keywords:
+    'Mathis Boche, développeur web, Next.js, Tailwind CSS, échecs, programmation, portfolio',
 };
+
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
