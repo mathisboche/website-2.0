@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Mathis Boche - Portfolio
 
-## Getting Started
+Ce projet est le site web personnel de Mathis Boche, un lycéen passionné par le développement web et les échecs. Il présente son parcours, ses compétences, ses projets, et ses objectifs futurs.
 
-First, run the development server:
+## Technologies utilisées
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Framework** : [Next.js](https://nextjs.org/)
+- **Style** : [TailwindCSS](https://tailwindcss.com/)
+- **Police** : [Google Fonts](https://fonts.google.com/) - Oswald & Source Sans Pro
+- **Icons** : [React Icons](https://react-icons.github.io/react-icons/)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Fonctionnalités principales
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Sections :**
+  - Accueil (hero section)
+  - À propos
+  - Projets
+  - Compétences
+  - Contact
+- **Design** :
+  - Animations CSS (ex. : rotation lente, gradients animés)
+  - Couleurs sombres modernes avec des accents orange (#FF4500)
+- **Responsive** : Optimisé pour les écrans mobiles, tablettes, et desktop.
+- **SEO** :
+  - Métadonnées configurées pour les réseaux sociaux (Open Graph, Twitter Cards)
+  - URL canonique : `https://www.mathisboche.fr`
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Instructions pour l'installation
 
-## Learn More
+### Prérequis
 
-To learn more about Next.js, take a look at the following resources:
+- Node.js (version 16 ou supérieure)
+- npm ou yarn
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Installation
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. Clonez ce dépôt :
+   ```bash
+   git clone https://github.com/votre-utilisateur/votre-depot.git
+   cd votre-depot
