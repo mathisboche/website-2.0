@@ -83,7 +83,7 @@ export default function HomePage() {
               <FaChessKing className="w-10 h-10 text-[#FF4500]" />
             </div>
             <h3 className="text-xl font-['Oswald'] mb-1 text-[#FF4500]">Élo Échecs</h3>
-            <p className="text-base">1747 (objectif 2000)</p>
+            <p className="text-base">1755 (objectif 2000)</p>
           </div>
           
           {/* Stat: Langues */}
