@@ -232,7 +232,7 @@ export default function HomePage() {
             <div className="space-y-4">
               <h4 className="text-xl font-semibold text-[#FF4500]">Échecs & Stratégie</h4>
               <p className="text-base md:text-lg">
-                Elo standard : <strong>1747</strong> – Objectif : <strong>2000</strong>.
+                Elo standard : <strong>1759</strong> – Objectif : <strong>2000</strong>.
               </p>
               <ul className="list-disc list-inside text-base md:text-lg space-y-2">
                 <li>2 participations Championnat de France Jeunes (U14/U16)</li>
