@@ -121,7 +121,7 @@ export default function HomePage() {
           <div className="relative w-full h-72 md:h-96 overflow-hidden rounded-lg">
             {/* Placeholder Midjourney portrait abstr. */}
             <Image
-              src="/images/portrait.jpg"
+              src="/images/portrait.JPG"
               alt="Portrait de Mathis Boche"
               fill
               className="object-cover"
